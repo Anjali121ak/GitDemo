@@ -58,8 +58,33 @@ public class EcommerceTC1 extends BaseTest
 		
 	}
 	
+
 	// Change the reflect in gitdemo user
 	// Change the reflect in gitdemo user
-	// Change the reflect in gitdemo user
+	// Change the reflect in gitdemo use
+	
+	@Test
+	public void Gitdemo1action()
+	{
+		System.out.println("today work on gitdemoproject");
+		System.out.println("today work on gitdemoproject");
+		
+	}
+	
+	@Test
+	public void Gitdemo1action2()
+	{
+		System.out.println("today work on gitdemoproject");
+		System.out.println("today work on gitdemoproject");
+		
+	}
+	
+	@Test
+	public void Gitstuffaction()
+	{
+		System.out.println("today work on gitstuffproject");
+		
+	}
+
 
 }

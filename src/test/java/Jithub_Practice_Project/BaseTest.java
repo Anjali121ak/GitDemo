@@ -49,7 +49,10 @@ public class BaseTest
 			//options.setApp("C://Users//Anjali.K//eclipse-workspace//Appium_basic//src//test//resources//Resources//ApiDemos-debug (2).apk");
 			
 			//E-commerce General store
+
 			options.setApp("C://Users//Anjali.K//Gitstuff//Jithub_Practice_Project//src//test//resource//App//General-Store.apk");
+			options.setApp("C://Users//Anjali.K//GitDemo//src//test//resource//App//General-Store.apk");
+
 			
 			//POC
 			//options.setApp("C://Users//Anjali.K//eclipse-workspace//Appium_basic//src//test//resources//Resources//General-Store.apk");
