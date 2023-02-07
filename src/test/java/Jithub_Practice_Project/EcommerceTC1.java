@@ -65,5 +65,13 @@ public class EcommerceTC1 extends BaseTest
 		System.out.println("today work on gitdemoproject");
 		
 	}
+	
+	@Test
+	public void Gitdemo1action2()
+	{
+		System.out.println("today work on gitdemoproject");
+		System.out.println("today work on gitdemoproject");
+		
+	}
 
 }
