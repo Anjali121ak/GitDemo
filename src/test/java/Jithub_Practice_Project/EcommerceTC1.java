@@ -90,7 +90,7 @@ public class EcommerceTC1 extends BaseTest
 	public void developaction()
 	{
 		System.out.println("new update from develop branch 8 feb 2023 by gitdemo");
-		System.out.println("new update from develop branch 8 feb 2023 by gitdtuff");
+		System.out.println("new update from develop branch 8 feb 2023 by gitdtuff as final commit");
 		
 	}
 
