@@ -82,7 +82,7 @@ public class EcommerceTC1 extends BaseTest
 	@Test
 	public void Gitstuffaction()
 	{
-		System.out.println("today work on gitstuffproject");
+		System.out.println("Updated work on gitstuff 8 feb 2023");
 		
 	}
 
