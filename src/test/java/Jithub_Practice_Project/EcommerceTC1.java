@@ -85,6 +85,13 @@ public class EcommerceTC1 extends BaseTest
 		System.out.println("Updated work on gitstuff 8 feb 2023");
 		
 	}
+	
+	@Test
+	public void developaction()
+	{
+		System.out.println("new update from develop branch 8 feb 2023");
+		
+	}
 
 
 }
